@@ -14,7 +14,6 @@ Welcome to **GDG (Google Developer Groups)!** We are a global community of devel
 ✅ Grow as developers and contribute to open source  
 
 ## 📌 What We Do?  
-![image](https://drive.google.com/file/d/1OwhivEIqe9U3Cdkvr9UaRHp9NLqymcst/view?usp=sharing)
 🚀 **Workshops & Tech Talks** – Hands-on sessions on Web, Cloud, AI, and more  
 🛠 **Hackathons & Coding Challenges** – Compete, learn, and innovate  
 🤝 **Networking & Collaboration** – Connect with like-minded developers  
