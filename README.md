@@ -20,7 +20,7 @@ Welcome to **GDG (Google Developer Groups)!** We are a global community of devel
 🎓 **Career & Skill Development** – Upskill and stay ahead in tech  
 
 ## 📅 Upcoming Events  
-📍 Stay tuned for upcoming **GDG Meetups, DevFests, and Tech Talks!** Follow our [GDG Chapter](https://developers.google.com/community/gdg) to get updates.  
+📍 Stay tuned for upcoming **GDG Meetups, DevFests, and Tech Talks!** Follow our [GDG Chapter](https://gdg.community.dev/gdg-on-campus-sanjivani-college-of-engineering-kopargaon-india/) to get updates.  
 
 ## 🤝 Join Us!  
 🌐 **GDG Global:** [developers.google.com/community/gdg](https://developers.google.com/community/gdg)  
