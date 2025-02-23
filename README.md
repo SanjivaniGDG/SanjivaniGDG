@@ -23,8 +23,8 @@ Welcome to **GDG (Google Developer Groups)!** We are a global community of devel
 📍 Stay tuned for upcoming **GDG Meetups, DevFests, and Tech Talks!** Follow our [GDG Chapter](https://gdg.community.dev/gdg-on-campus-sanjivani-college-of-engineering-kopargaon-india/) to get updates.  
 
 ## 🤝 Join Us!  
-🌐 **GDG Global:** [developers.google.com/community/gdg](https://developers.google.com/community/gdg)  
-🌐 **GDG SCOE:** [developers.google.com/community/gdg](https://gdg.community.dev/gdg-on-campus-sanjivani-college-of-engineering-kopargaon-india/)  
+🌐 **GDG Global:** [GDG](https://developers.google.com/community/gdg)  
+🌐 **GDG SCOE:** [SCOE Chapter](https://gdg.community.dev/gdg-on-campus-sanjivani-college-of-engineering-kopargaon-india/)  
 📌 **Find a GDG Near You:** [gdg.community.dev](https://gdg.community.dev)  
 📢 **Follow GDG on Twitter:** [@googledevs](https://twitter.com/googledevs)  
 
