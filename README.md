@@ -14,10 +14,7 @@ Welcome to **GDG (Google Developer Groups)!** We are a global community of devel
 ✅ Grow as developers and contribute to open source  
 
 ## 📌 What We Do?  
-🚀 **Workshops & Tech Talks** – Hands-on sessions on Web, Cloud, AI, and more  
-🛠 **Hackathons & Coding Challenges** – Compete, learn, and innovate  
-🤝 **Networking & Collaboration** – Connect with like-minded developers  
-🎓 **Career & Skill Development** – Upskill and stay ahead in tech  
+<img src="https://i.ibb.co/Jj6W808x/Banner.png" alt="Banner" border="0">
 
 ## 📅 Upcoming Events  
 📍 Stay tuned for upcoming **GDG Meetups, DevFests, and Tech Talks!** Follow our [GDG Chapter](https://gdg.community.dev/gdg-on-campus-sanjivani-college-of-engineering-kopargaon-india/) to get updates.  
